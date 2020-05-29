@@ -1,0 +1,2 @@
+# ddscript
+netinstall script hub
